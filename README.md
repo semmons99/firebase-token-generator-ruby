@@ -1,3 +1,5 @@
+![travis-ci](https://travis-ci.org/semmons99/firebase-token-generator-ruby.svg?branch=master)
+
 # Firebase Token Generator - Ruby
 
 [Firebase Custom Login](https://www.firebase.com/docs/web/guide/simple-login/custom.html)
