@@ -1,10 +1,18 @@
+PATH
+  remote: .
+  specs:
+    firebase_token_generator (2.0.0)
+      rake
+
 GEM
   remote: http://rubygems.org/
   specs:
     json (1.7.6)
+    rake (10.3.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  firebase_token_generator!
   json
