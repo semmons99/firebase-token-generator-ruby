@@ -9,4 +9,6 @@ Gem::Specification.new do |s|
   s.files         = ["lib/firebase_token_generator.rb"]
   s.homepage      = "http://github.com/firebase/firebase-token-generator-ruby"
   s.license       = "MIT"
+
+  s.add_dependency "rake"
 end
